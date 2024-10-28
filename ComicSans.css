@@ -1,0 +1,22 @@
+/**
+ * @name Comic Sans
+ * @author quwyou.com
+ * @description changes all text to comic sans
+ * @version 0.0.2
+ * @authorId quwyou
+ * @website https://quwyou.com
+ */
+
+:root {
+  --font: "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", sans-serif; 
+}
+
+/* Apply font to all elements */
+* {
+  font-family: var(--font) !important; /* Force the custom font */
+}
+
+/* Ensure placeholder text uses the font */
+::placeholder {
+  font-family: var(--font);
+}
