@@ -1,10 +1,12 @@
 /**
  * @name Comic Sans
- * @author quwyou.com
+ * @author quwyou
+ * @authorId 505221369747734542
  * @description changes all text to comic sans
- * @version 0.0.2
- * @authorId quwyou
- * @website https://quwyou.com
+ * @version 1.0.0
+ * @source https://github.com/quwyou/Comic-Sans-for-Vencord/blob/main/ComicSans.css
+ * @website https://github.com/quwyou/Comic-Sans-for-Vencord
+ * @authorLink https://quwyou.com
  */
 
 :root {
