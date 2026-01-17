@@ -14,7 +14,8 @@ Get [Vencord](https://vencord.dev/).
 
 #### Either:
 
-Copy and place this link below on a single line under "Online Themes": `https://raw.githubusercontent.com/quwyou/Comic-Sans-for-Vencord/refs/heads/main/ComicSans.css`
+Copy and place this link below on a single line under "Online Themes: <br />
+`https://raw.githubusercontent.com/quwyou/Comic-Sans-for-Vencord/refs/heads/main/ComicSans.css`
 
 **OR**
 
